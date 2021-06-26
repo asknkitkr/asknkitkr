@@ -5,7 +5,7 @@
 
 [![asknkitkr's github stats](https://github-readme-stats.vercel.app/api?username=asknkitkr&theme=dark&show_icons=true)](https://github.com/asknkitkr)
 
-## Skill I am learning or have learnt:
+## Skills I am learning or have learnt:
 ### Languages and Tools:
 
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/C.svg" />
