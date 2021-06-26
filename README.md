@@ -8,14 +8,40 @@
 ## Skill I am learning or have learnt:
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/>
-<img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/>
-<img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/C.svg" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/C++.svg" />
+<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/CSS.svg"/>
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/Git.svg"/>
+<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/HTML.svg"/>
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/Java.svg" />
+<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/Javascript.svg" />
+<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/NodeJS.svg" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/Python.svg"/>
 <br />
 <br />
 
+### Databases:
 
+<img align="left" alt="Firebase" height="26px" src="https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/Firebase.svg" />
+<img align="left" alt="MongoDB" height="26px" src="https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/MongoDB.svg" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/MySQL.svg"/>
+<br />
+<br />
+
+### Frameworks:
+
+<img align="left" alt="Bootstrap" height="26px" src="https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/Bootstrap.svg" />
+<img align="left" alt="React" height="26px" src="https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/React.svg" />
+<img align="left" alt="Tailwind" width="26px" src="https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/TailwindCSS.svg"/>
+<br />
+<br />
+
+### Softwares and IDEs:
+
+<img align="left" alt="IntelliJ" height="26px" src="https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/IntelliJ.svg" />
+<img align="left" alt="Figma" height="26px" src="https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/Figma.svg" />
+<img align="left" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/Photoshop.svg"/>
+<img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/asknkitkr/icon-set/553e000769aceef8fc55dbfdbdd651660919636c/svg/x36/VSCode.svg"/>
+<br />
+<br />
 
